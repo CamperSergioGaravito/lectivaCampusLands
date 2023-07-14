@@ -1,0 +1,5 @@
+inicio_palabras
+
+Máquina de escribir
+
+fin_palabras

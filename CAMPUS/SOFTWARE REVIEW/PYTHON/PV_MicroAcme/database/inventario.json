@@ -1,0 +1,352 @@
+{
+  "P001": {
+    "nombre": "Producto 1",
+    "precio": 50000,
+    "cantidad": 100,
+    "cantidad_vendida": 50,
+    "iva": 0.19
+  },
+  "P002": {
+    "nombre": "Producto 2",
+    "precio": 75000,
+    "cantidad": 150,
+    "cantidad_vendida": 75,
+    "iva": 0.19
+  },
+  "P003": {
+    "nombre": "Producto 3",
+    "precio": 120000,
+    "cantidad": 200,
+    "cantidad_vendida": 100,
+    "iva": 0.19
+  },
+  "P004": {
+    "nombre": "Producto 4",
+    "precio": 25000,
+    "cantidad": 50,
+    "cantidad_vendida": 25,
+    "iva": 0.19
+  },
+  "P005": {
+    "nombre": "Producto 5",
+    "precio": 60000,
+    "cantidad": 120,
+    "cantidad_vendida": 60,
+    "iva": 0.19
+  },
+  "P006": {
+    "nombre": "Producto 6",
+    "precio": 35000,
+    "cantidad": 80,
+    "cantidad_vendida": 40,
+    "iva": 0.19
+  },
+  "P007": {
+    "nombre": "Producto 7",
+    "precio": 90000,
+    "cantidad": 220,
+    "cantidad_vendida": 110,
+    "iva": 0.19
+  },
+  "P008": {
+    "nombre": "Producto 8",
+    "precio": 55000,
+    "cantidad": 70,
+    "cantidad_vendida": 35,
+    "iva": 0.19
+  },
+  "P009": {
+    "nombre": "Producto 9",
+    "precio": 40000,
+    "cantidad": 180,
+    "cantidad_vendida": 90,
+    "iva": 0.19
+  },
+  "P010": {
+    "nombre": "Producto 10",
+    "precio": 80000,
+    "cantidad": 160,
+    "cantidad_vendida": 80,
+    "iva": 0.19
+  },
+  "P011": {
+    "nombre": "Producto 11",
+    "precio": 65000,
+    "cantidad": 90,
+    "cantidad_vendida": 45,
+    "iva": 0.19
+  },
+  "P012": {
+    "nombre": "Producto 12",
+    "precio": 70000,
+    "cantidad": 110,
+    "cantidad_vendida": 55,
+    "iva": 0.19
+  },
+  "P013": {
+    "nombre": "Producto 13",
+    "precio": 55000,
+    "cantidad": 140,
+    "cantidad_vendida": 70,
+    "iva": 0.19
+  },
+  "P014": {
+    "nombre": "Producto 14",
+    "precio": 30000,
+    "cantidad": 130,
+    "cantidad_vendida": 65,
+    "iva": 0.19
+  },
+  "P015": {
+    "nombre": "Producto 15",
+    "precio": 95000,
+    "cantidad": 70,
+    "cantidad_vendida": 35,
+    "iva": 0.19
+  },
+  "P016": {
+    "nombre": "Producto 16",
+    "precio": 45000,
+    "cantidad": 100,
+    "cantidad_vendida": 50,
+    "iva": 0.19
+  },
+  "P017": {
+    "nombre": "Producto 17",
+    "precio": 85000,
+    "cantidad": 190,
+    "cantidad_vendida": 95,
+    "iva": 0.19
+  },
+  "P018": {
+    "nombre": "Producto 18",
+    "precio": 50000,
+    "cantidad": 120,
+    "cantidad_vendida": 60,
+    "iva": 0.19
+  },
+  "P019": {
+    "nombre": "Producto 19",
+    "precio": 75000,
+    "cantidad": 70,
+    "cantidad_vendida": 35,
+    "iva": 0.19
+  },
+  "P020": {
+    "nombre": "Producto 20",
+    "precio": 120000,
+    "cantidad": 200,
+    "cantidad_vendida": 100,
+    "iva": 0.19
+  },
+  "P021": {
+    "nombre": "Producto 21",
+    "precio": 25000,
+    "cantidad": 50,
+    "cantidad_vendida": 25,
+    "iva": 0.19
+  },
+  "P022": {
+    "nombre": "Producto 22",
+    "precio": 60000,
+    "cantidad": 120,
+    "cantidad_vendida": 60,
+    "iva": 0.19
+  },
+  "P023": {
+    "nombre": "Producto 23",
+    "precio": 35000,
+    "cantidad": 80,
+    "cantidad_vendida": 40,
+    "iva": 0.19
+  },
+  "P024": {
+    "nombre": "Producto 24",
+    "precio": 90000,
+    "cantidad": 220,
+    "cantidad_vendida": 110,
+    "iva": 0.19
+  },
+  "P025": {
+    "nombre": "Producto 25",
+    "precio": 55000,
+    "cantidad": 70,
+    "cantidad_vendida": 35,
+    "iva": 0.19
+  },
+  "P026": {
+    "nombre": "Producto 26",
+    "precio": 40000,
+    "cantidad": 180,
+    "cantidad_vendida": 90,
+    "iva": 0.19
+  },
+  "P027": {
+    "nombre": "Producto 27",
+    "precio": 80000,
+    "cantidad": 160,
+    "cantidad_vendida": 80,
+    "iva": 0.19
+  },
+  "P028": {
+    "nombre": "Producto 28",
+    "precio": 65000,
+    "cantidad": 90,
+    "cantidad_vendida": 45,
+    "iva": 0.19
+  },
+  "P029": {
+    "nombre": "Producto 29",
+    "precio": 70000,
+    "cantidad": 110,
+    "cantidad_vendida": 55,
+    "iva": 0.19
+  },
+  "P030": {
+    "nombre": "Producto 30",
+    "precio": 55000,
+    "cantidad": 140,
+    "cantidad_vendida": 70,
+    "iva": 0.19
+  },
+  "P031": {
+    "nombre": "Producto 31",
+    "precio": 30000,
+    "cantidad": 130,
+    "cantidad_vendida": 65,
+    "iva": 0.19
+  },
+  "P032": {
+    "nombre": "Producto 32",
+    "precio": 95000,
+    "cantidad": 70,
+    "cantidad_vendida": 35,
+    "iva": 0.19
+  },
+  "P033": {
+    "nombre": "Producto 33",
+    "precio": 45000,
+    "cantidad": 100,
+    "cantidad_vendida": 50,
+    "iva": 0.19
+  },
+  "P034": {
+    "nombre": "Producto 34",
+    "precio": 85000,
+    "cantidad": 190,
+    "cantidad_vendida": 95,
+    "iva": 0.19
+  },
+  "P035": {
+    "nombre": "Producto 35",
+    "precio": 50000,
+    "cantidad": 120,
+    "cantidad_vendida": 60,
+    "iva": 0.19
+  },
+  "P036": {
+    "nombre": "Producto 36",
+    "precio": 75000,
+    "cantidad": 70,
+    "cantidad_vendida": 35,
+    "iva": 0.19
+  },
+  "P037": {
+    "nombre": "Producto 37",
+    "precio": 120000,
+    "cantidad": 200,
+    "cantidad_vendida": 100,
+    "iva": 0.19
+  },
+  "P038": {
+    "nombre": "Producto 38",
+    "precio": 25000,
+    "cantidad": 50,
+    "cantidad_vendida": 25,
+    "iva": 0.19
+  },
+  "P039": {
+    "nombre": "Producto 39",
+    "precio": 60000,
+    "cantidad": 120,
+    "cantidad_vendida": 60,
+    "iva": 0.19
+  },
+  "P040": {
+    "nombre": "Producto 40",
+    "precio": 35000,
+    "cantidad": 80,
+    "cantidad_vendida": 40,
+    "iva": 0.19
+  },
+  "P041": {
+    "nombre": "Producto 41",
+    "precio": 90000,
+    "cantidad": 220,
+    "cantidad_vendida": 110,
+    "iva": 0.19
+  },
+  "P042": {
+    "nombre": "Producto 42",
+    "precio": 55000,
+    "cantidad": 70,
+    "cantidad_vendida": 35,
+    "iva": 0.19
+  },
+  "P043": {
+    "nombre": "Producto 43",
+    "precio": 40000,
+    "cantidad": 180,
+    "cantidad_vendida": 90,
+    "iva": 0.19
+  },
+  "P044": {
+    "nombre": "Producto 44",
+    "precio": 80000,
+    "cantidad": 160,
+    "cantidad_vendida": 80,
+    "iva": 0.19
+  },
+  "P045": {
+    "nombre": "Producto 45",
+    "precio": 65000,
+    "cantidad": 90,
+    "cantidad_vendida": 45,
+    "iva": 0.19
+  },
+  "P046": {
+    "nombre": "Producto 46",
+    "precio": 70000,
+    "cantidad": 110,
+    "cantidad_vendida": 55,
+    "iva": 0.19
+  },
+  "P047": {
+    "nombre": "Producto 47",
+    "precio": 55000,
+    "cantidad": 140,
+    "cantidad_vendida": 70,
+    "iva": 0.19
+  },
+  "P048": {
+    "nombre": "Producto 48",
+    "precio": 30000,
+    "cantidad": 130,
+    "cantidad_vendida": 65,
+    "iva": 0.19
+  },
+  "P049": {
+    "nombre": "Producto 49",
+    "precio": 95000,
+    "cantidad": 70,
+    "cantidad_vendida": 35,
+    "iva": 0.19
+  },
+  "P050": {
+    "nombre": "Producto 50",
+    "precio": 45000,
+    "cantidad": 100,
+    "cantidad_vendida": 50,
+    "iva": 0.19
+  }
+}
